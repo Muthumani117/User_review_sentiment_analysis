@@ -15,7 +15,6 @@
     <li>math</li>
     <li>Matplot</li>
     <li>Pandas</li>
-    <li>Plotly</li>
     <li>WordCloud</li>
     <li>NLTK</li>
     <li>sklearn</li>
