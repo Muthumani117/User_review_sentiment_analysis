@@ -28,6 +28,7 @@
     <li>Logistic Regression</li>
     <li>Support Vector Machine</li>
     <li>Multinomial NB</li>
+    <li>Random Forest Classifier</li>
   </ul>
 </i>
 
@@ -38,6 +39,8 @@
     <li>Tokenizing</li>
     <li>Filtering stopwords</li>
     <li>Filtering meaningless words</li>
+    <li>Convert to lowercase</li>
+    <li>Lemmatizing word</li>
   </ul>
 </i>
 
