@@ -1,10 +1,10 @@
 # Sentimental Analysis using NLTK approach
-
+# Class of clan game user reviews
 <i>
   <ul>
     <li>Used dataset from Kaggle.com</li>
     <li> .csv file is uploaded or it can be downloaded from </li>
-    <li> dataset can be donwloaded from https://www.kaggle.com/shivkumarganesh/clashofclansgoogleplaystorereview </li>
+    <li> dataset can be downloaded from https://www.kaggle.com/shivkumarganesh/clashofclansgoogleplaystorereview </li>
   </ul>
   </i>
   
